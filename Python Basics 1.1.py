@@ -1,2 +1,2 @@
 a = "Abdulkader Shahpurwala"
-print("My name is a")
+print("My name is", a)
